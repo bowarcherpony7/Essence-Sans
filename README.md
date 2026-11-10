@@ -191,4 +191,4 @@ This repository serves as the official landing page for **Essence Sans**. The so
 **Get the most recent version of Essence Sans today!**
 
 ---
-**Last updated:** 2026-11-10 10:42:03 UTC
+**Last updated:** 2026-11-10 18:25:24 UTC
